@@ -1,6 +1,7 @@
 {
   "urls": [
     "https://feeds.feedburner.com/zdnetkorea/news",
-    "https://www.bloter.net/rss/allArticle.xml"
+    "https://www.bloter.net/rss/allArticle.xml",
+    "https://news.hada.io/rss/news"
   ]
 }
